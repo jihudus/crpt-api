@@ -1,0 +1,6 @@
+server:
+  port: 8811
+  servlet:
+    context-path: /
+  error:
+    include-message: always
